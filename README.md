@@ -2,7 +2,7 @@
 Some small examples of my code in Java.
 
 
-Assignment5Hangman:
+<b>Assignment5Hangman:</b>
 
 Simple game of hangman with GUI, with input validation and guess checking via char arrays, written for an assignment in College. 
 
